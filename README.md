@@ -1,1 +1,2 @@
 # Market-Basket-Analysis-Using-Apriori-Algo.
+Market Basket Analysis (MBA) is a data mining technique used to uncover associations between items in large datasets, particularly in retail. It helps businesses understand the purchase behavior of customers by identifying patterns and correlations between items that are frequently bought together. This analysis is crucial for making informed decisions about product placement, promotions, and inventory management.
